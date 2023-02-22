@@ -1,3 +1,10 @@
+def my_brand():
+     print ("=*=*=*= Jaiminkumar Bhupeshkumar Desai =*=*=*=")
+     print ("=*=*=*= Course 2023S-SSW567-A Software Testing,Quality Assurance and Maintanence =*=*=*= ")
+     print("=*=*=*= HW 00 - Tools Setup =*=*=*= ")
+     print ("=*=*=*= Date - 1/24/2023  =*=*=*= ")
+my_brand()
+
 import unittest
 from Triangle import classifyTriangle
 class TestTriangles(unittest.TestCase):
