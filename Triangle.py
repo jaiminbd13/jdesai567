@@ -1,3 +1,10 @@
+def my_brand():
+     print ("=*=*=*= Jaiminkumar Bhupeshkumar Desai =*=*=*=")
+     print ("=*=*=*= Course 2023S-SSW567-A Software Testing,Quality Assurance and Maintanence =*=*=*= ")
+     print("=*=*=*= HW 00 - Tools Setup =*=*=*= ")
+     print ("=*=*=*= Date - 1/24/2023  =*=*=*= ")
+my_brand()
+
 def classifyTriangle(a,b,c):
 
     if a <= 0 or b <= 0 or c <= 0:
